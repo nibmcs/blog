@@ -4,6 +4,7 @@ datePublished: Sun Mar 19 2023 05:39:36 GMT+0000 (Coordinated Universal Time)
 cuid: clfeyxhhj000809lbceb7egru
 slug: embracing-the-future-with-aiml
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679204348260/4c4a1641-c273-40dd-96b0-e9d68ba5ad6d.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679204515803/45fb013f-9738-4e8f-ba25-c44ce81f7e63.jpeg
 tags: ai, cloud-computing, ml, future-of-ai, free-open-source-software
 
 ---
